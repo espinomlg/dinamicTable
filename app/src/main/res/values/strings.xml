@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">DinamicTable</string>
+    <string name="txvId">Id</string>
+    <string name="txvName">Name</string>
+
+    <string-array name="listName">
+        <item>Daniel Acedo</item>
+        <item>María García</item>
+        <item>Laura Durán</item>
+        <item>Medinilla</item>
+        <item>Casielles</item>
+        <item>Antonio López</item>
+        <item>Juan Borromeo</item>
+        <item>Laura Quintana</item>
+        <item>Daniel Acedo</item>
+        <item>María García</item>
+        <item>Laura Durán</item>
+        <item>Medinilla</item>
+        <item>Casielles</item>
+        <item>Antonio López</item>
+        <item>Juan Borromeo</item>
+        <item>Laura Quintana</item>
+        <item>Daniel Acedo</item>
+        <item>María García</item>
+        <item>Laura Durán</item>
+        <item>Medinilla</item>
+        <item>Casielles</item>
+        <item>Antonio López</item>
+        <item>Juan Borromeo</item>
+        <item>Laura Quintana</item>
+        <item>Daniel Acedo</item>
+        <item>María García</item>
+        <item>Laura Durán</item>
+        <item>Medinilla</item>
+        <item>Casielles</item>
+        <item>Antonio López</item>
+        <item>Juan Borromeo</item>
+        <item>Laura Quintana</item>
+    </string-array>
+</resources>
